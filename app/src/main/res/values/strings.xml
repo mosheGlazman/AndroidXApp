@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Home</string>
+    <string name="second_fragment_label">Page 2</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">I see you are a man of culture</string>
+    <string name="hello_second_fragment">:)</string>
+    <string name="biometrics_auth_button_description">App Authentication</string>
+
+    <string name="biometrics_prompt_title">Login using biometrics</string>
+    <string name="biometrics_prompt_description">Provide biometrics in order to login to this app</string>
+    <string name="biometrics_prompt_negative">Cancel</string>
+
+    <string name="biometrics_unavailable">Biometric authentication is not enabled on this device</string>
+    <string name="biometrics_error">Biometric error</string>
+
+    <string name="error_code">(Error code %d)</string>
+
+    <string name="biometrics_result_success">Welcome!</string>
+    <string name="biometrics_result_failure">Authentication failed</string>
+    <string name="biometrics_try_again">Try Again</string>
+    <string name="enroll_biometrics">Biometrics are not set-up on this device</string>
+    <string name="enroll_button">Set up biometrics</string>
+    <string name="login_to_continue">Welcome! Please login to continue</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="biometrics_manager_init_required" >biometrics manager initialize required. call init method with FragmentActivity</string>
+</resources>
